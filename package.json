@@ -1,0 +1,24 @@
+{
+  "name": "linepay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-clean": "~0.3.2",
+    "gulp-nts-css-formatter": "http://gitlab2.uit.navercorp.com/RND/gulp-nts-css-formatter/raw/master/dist/gulp-nts-css-formatter.latest.tgz",
+    "gulp-sass": "^3.2.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-ftp": "^0.4.5",
+    "vinyl-ftp-branch": "^0.2.1"
+  }
+}
